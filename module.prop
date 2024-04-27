@@ -1,0 +1,7 @@
+id=ATCPO
+name=Android TCP Optimization
+version=v1
+versionCode=1
+author=@LeanHijosdesusMadres [telegram]
+description=Tuning the initcwnd and initrwnd parameters can have a significant improvement in TCP performance.
+support=https://t.me/modulostk
