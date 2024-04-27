@@ -4,6 +4,8 @@
 Tuning the initcwnd and initrwnd parameters can have a significant improvement in TCP performance.
 Resulting in faster web page downloads and faster connection between servers.
 
+• Check: su -c ip route
+
 ## Support
 - [GitHub](https://github.com/LeanxModulostk/Android-TCP-Optimization) 
 - [Telegram Channel](https://t.me/modulostk)
